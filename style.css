@@ -1,0 +1,11 @@
+body{
+    background-color: #00541c;
+}
+
+footer{
+    background-color: rgb(45, 45, 45);
+    color: white;
+    height: 100px;
+    position: fixed;
+    bottom: 0px;
+}

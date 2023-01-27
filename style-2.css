@@ -1,7 +1,7 @@
 /* VISAO GERAL DO DOCUMENTO */
 body{
     font-family: 'Roboto';
-    background-image: url("images/background.jpg");
+    background-image: url("images/background-2.jpg");
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -11,7 +11,7 @@ body{
 
 /* ESTILOS REFERENTES AO TITULO */
 #titulo{
-    background-color: #4794ad;
+    background-color: #836b48;
     border-radius: 5px;
     width: 100%;
     text-align: center;
@@ -49,7 +49,7 @@ body{
 /* ESTILOS REFERENTES A SEÇAO DE VANTAGENS DO PRODUTO */
 #vantagens{
     margin-top: 10px;
-    background-color: #3f4f66;
+    background-color: #8e908d;
     border-radius: 5px;
     padding-right: 10%;
     padding-left: 10%;   
@@ -57,7 +57,7 @@ body{
     padding-bottom: 10px; 
 }
 .itemvantagem{
-    color: #5ebfd2;
+    color: 1d1310;
 }
 i{
     margin-right: 10px;
@@ -69,7 +69,7 @@ i{
 /* ESTILOS REFERENTES A SECAO DE DEPOIMENTOS */
 #tituloDepoimentos{
     margin-top: 5px;
-    background-color: #041423;    
+    background-color: #403d35;    
     padding-top: 1px;
     border-radius: 5px;
 }
@@ -87,7 +87,7 @@ h3{
 .itemdepoimento{    
     padding: 5px 5px 5px 5px;
     background-color: white;
-    color: #041423;  
+    color: #403d35;  
     margin: 5px 5px 5px 5px;
     border-radius: 5px;
     width: 30%;      
@@ -102,7 +102,7 @@ h3{
 
 /* ESTILOS RELATIVOS AO CTA */ 
 #cta{
-    background-color: #5ebfd2;
+    background-color: #8e908d;
     border-radius: 5px;   
     margin-top : 10px; 
     margin-bottom: 10px;
@@ -112,7 +112,7 @@ h3{
 }
 #titulocta{
     text-align: center;
-    color: #1c4765;
+    color: #836b48;
     margin-bottom: 1px;
     margin-top: 5px;
 }
@@ -133,8 +133,8 @@ input:focus{
 
 }
 button{
-    background-color: #355c6b;
-    color: white;
+    background-color: #836b48;
+    color: #1d1310;
     padding: 10px 10px 10px 10px;
     border: none;
     border-radius: 5px;
@@ -145,8 +145,8 @@ button{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: #3f4f66;
-    color: rgb(203, 203, 203);
+    background-color: #8e908d;
+    color: #1d1310;
     padding-left: 5%;
     padding-right: 5%;
 
@@ -154,7 +154,7 @@ button{
 
 a:link,  a:active, a:visited{
     text-decoration: none;
-    color: rgb(203, 203, 203);
+    color: #1d1310;
 }
 a:hover{
     font-weight: 900;
@@ -177,7 +177,7 @@ a:hover{
         flex-direction: column;
     }
     #redessociais{
-        border-top: 1px solid white;
+        border-top: 1px solid #1d1310;
         padding-top: 5px;
         margin-top: 5px;
     }
